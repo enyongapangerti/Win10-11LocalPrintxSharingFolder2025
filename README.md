@@ -1,29 +1,45 @@
-# Windows 10 and Windows 11 Sharing Folder Fix 2025  
+# Windows 10 and Windows 11 Sharing Printer and Sharing Folder Fix 2025  
+
+## Description  
+
+This application is designed to help Windows 10 and Windows 11 users troubleshoot common issues related to printer and folder sharing. By using this application, you can fix various error codes, including:  
+
+- **0x0000011b**: This error often occurs when trying to connect to a shared printer on the network.  
+- **0x00000709**: This error appears when you cannot set a default printer or connect to a shared printer.  
+- Other connection problems with shared printers.  
 
 ## Deskripsi  
-**Windows 10 and Windows 11 Sharing Folder Fix 2025** adalah solusi praktis untuk mengatasi masalah berbagi folder di Windows 10 dan Windows 11. Aplikasi ini mengkonfigurasi pengaturan Registry yang diperlukan untuk memperbaiki masalah autentikasi dan koneksi saat berbagi folder di jaringan lokal.  
 
-### Fitur Utama  
-- **Menonaktifkan Enkripsi Autentikasi RPC**: Memastikan bahwa enkripsi autentikasi RPC tidak menghalangi koneksi ke printer dan folder yang dibagikan.  
-- **Pengaturan RPC untuk Komponen Cetak**: Mengoptimalkan pengaturan RPC untuk meningkatkan kinerja dan stabilitas saat mencetak dari perangkat yang terhubung.  
-- **Pengaturan Tambahan untuk Pencetakan**: Memfasilitasi pengaturan yang diperlukan untuk berbagi dan mencetak dokumen dengan lebih efisien.  
-- **Menangani Penggunaan Kata Sandi Kosong**: Memungkinkan penggunaan akun tanpa kata sandi untuk akses yang lebih mudah ke folder yang dibagikan.  
+Aplikasi ini dirancang untuk membantu pengguna Windows 10 dan Windows 11 dalam mengatasi masalah umum terkait berbagi printer dan folder. Dengan menggunakan aplikasi ini, Anda dapat memperbaiki berbagai kode kesalahan, termasuk:  
 
-### Catatan  
-Sebelum menggunakan aplikasi ini, disarankan untuk melakukan backup registry Anda. Pengeditan registry dapat berisiko jika tidak dilakukan dengan hati-hati. Pastikan untuk menjalankan aplikasi ini dengan hak administrator untuk menerapkan perubahan yang diperlukan.  
+- **0x0000011b**: Kesalahan ini sering terjadi saat mencoba terhubung ke printer yang dibagikan di jaringan.  
+- **0x00000709**: Kesalahan ini muncul ketika Anda tidak dapat mengatur printer default atau menghubungkan ke printer berbagi.  
+- Masalah koneksi lainnya dengan printer yang dibagikan.  
+
+## Key Features  
+
+- **Automatic Registry Fix**: This application automatically adds the necessary registry settings to troubleshoot printer sharing issues.  
+- **Disable RPC Authentication Encryption**: Modifies settings to improve printer connection compatibility.  
+- **RPC Settings for Print Components**: Configures RPC settings to ensure better communication between devices.  
+
+## Fitur Utama  
+
+- **Perbaikan Registri Otomatis**: Aplikasi ini secara otomatis menambahkan pengaturan registri yang diperlukan untuk mengatasi masalah berbagi printer.  
+- **Menonaktifkan Enkripsi Autentikasi RPC**: Mengubah pengaturan untuk meningkatkan kompatibilitas koneksi printer.  
+- **Pengaturan RPC untuk Komponen Cetak**: Mengonfigurasi pengaturan RPC untuk memastikan komunikasi yang lebih baik antara perangkat.  
 
 ---  
 
-## Description  
-**Windows 10 and Windows 11 Sharing Folder Fix 2025** is a practical solution designed to address folder sharing issues in Windows 10 and Windows 11. This application modifies the necessary Registry settings to resolve authentication and connection problems when sharing folders on a local network.  
+## How to Use
+- **Download** the application from this **repository.**
+- **Run the application** as an **Administrator** to ensure all changes can be applied.
+- **Installing** program in **server** and **client.**
+- **Restart your computer** to apply all changes.
 
-### Key Features  
-- **Disables RPC Authentication Encryption**: Ensures that RPC authentication encryption does not hinder connectivity to shared printers and folders.  
-- **RPC Settings for Print Components**: Optimizes RPC configurations to enhance performance and stability when printing from connected devices.  
-- **Additional Printing-Related Settings**: Facilitates the necessary settings for sharing and printing documents more efficiently.  
-- **Handles Blank Password Usage**: Allows the use of accounts without passwords for easier access to shared folders.  
+## Cara Menggunakan
+- **Unduh** aplikasi dari **repository** ini.
+- **Jalankan aplikasi** sebagai Administrator untuk memastikan semua perubahan dapat diterapkan.
+- **Instal** aplikasi pada komputer **server** dan **klien**.
+- **Restart komputer** untuk menerapkan semua perubahan.
 
-### Note  
-Before using this application, it is recommended to back up your registry. Editing the registry can be risky if not done carefully. Ensure to run this application with administrator rights to apply the required changes.  
-
-App by Ramadhan Adi Pratama
+**App by Ramadhan Adi Pratama.**
