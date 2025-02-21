@@ -32,6 +32,7 @@ Aplikasi ini dirancang untuk membantu pengguna Windows 10 dan Windows 11 dalam m
 
 ## How to Use
 - **Download** the application from this **repository.**
+- **Disable the antivirus** before running the application..
 - **Run the application** as an **Administrator** to ensure all changes can be applied.
 - **The password** for the application is below this guide.
 - **Installing** program in **server** and **client.**
@@ -40,8 +41,9 @@ Aplikasi ini dirancang untuk membantu pengguna Windows 10 dan Windows 11 dalam m
 
 ## Cara Menggunakan
 - **Unduh** aplikasi dari **repository** ini.
+- **Matikan antivirus** sebelum menjalankan aplikasi.
 - **Jalankan aplikasi** sebagai Administrator untuk memastikan semua perubahan dapat diterapkan.
-- **Password** aplikasi di bawah panduan ini
+- **Password** aplikasi di bawah panduan ini.
 - **Instal** aplikasi pada komputer **server** dan **klien**.
 - **Restart komputer** untuk menerapkan semua perubahan.
 - **Tambahkan Printer** dengan cara biasa, contoh jalankan \\Ip Address melalui windows explorer dan double klik printer. 
