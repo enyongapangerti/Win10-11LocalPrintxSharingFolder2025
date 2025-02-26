@@ -35,18 +35,19 @@ Aplikasi ini dirancang untuk membantu pengguna Windows 10 dan Windows 11 dalam m
 - **Disable the antivirus** before running the application..
 - **Run the application** as an **Administrator** to ensure all changes can be applied.
 - **The password** for the application is below this guide.
-- **Installing** program in **server** and **client.**
-- **Restart your computer** to apply all changes.
-- **Add the printer** in the usual way, for example, run \\IP Address through Windows Explorer and double-click the printer.
+- **Choose one** there are 2 files, exe or reg. exe just double click, reg right click install.
+- **Install** the application on the **server** computer and restart.
+- **Install** the application on the **client** computer can be restarted or not (optional).
+- **Add the printer** in the usual way, for example, run \\IP Address atau \\PCName through Windows Explorer and double-click the printer.
 
 ## Cara Menggunakan
 - **Unduh** aplikasi dari **repository** ini.
 - **Matikan antivirus** sebelum menjalankan aplikasi.
 - **Jalankan aplikasi** sebagai Administrator untuk memastikan semua perubahan dapat diterapkan.
 - **Password** aplikasi di bawah panduan ini.
-- **Instal** aplikasi pada komputer **server** dan **klien**.
-- **Restart komputer** untuk menerapkan semua perubahan.
-- **Tambahkan Printer** dengan cara biasa, contoh jalankan \\Ip Address melalui windows explorer dan double klik printer. 
+- **Pilih salah satu** terdapat 2 file, exe atau reg. exe tinggal double klik, reg klik kanan install.
+- **Instal** aplikasi pada komputer **server** dan restart.
+- **Instal** aplikasi pada komputer **klien** dapat restart atau tidak (opsional).
+- **Tambahkan Printer** dengan cara biasa, contoh jalankan \\Ip Address atau \\NamaPC melalui windows explorer dan double klik printer. 
 
-Password : RamadhanAdiPratama
-**App by Ramadhan Adi Pratama.**
+**Password** : RamadhanAdiPratama
