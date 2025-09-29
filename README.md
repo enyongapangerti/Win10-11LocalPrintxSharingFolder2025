@@ -45,7 +45,7 @@ Aplikasi ini dirancang untuk membantu pengguna Windows 10 dan Windows 11 dalam m
 ---  
 
 ## How to Use
-- **Download** the application from [this repository].  
+- **Download** the application from [Releasess file in this repository].  
 - **Disable the antivirus** before running the application.
 - **The password** for the application is below this guide.
 - **Open the application** by double-clicking or right-click and select "Install".
@@ -59,7 +59,7 @@ Aplikasi ini dirancang untuk membantu pengguna Windows 10 dan Windows 11 dalam m
 - **Open Sharing Folder and Add Printer** in the usual way. For example, run \\IP Address or \\PC Name through Windows Explorer or the Run System, and double-click the printer.
 
 ## Cara Menggunakan
-- **Unduh** aplikasi dari [repsitory ini]. 
+- **Unduh** aplikasi dari [Releasses file di repsitory ini]. 
 - **Matikan antivirus** sebelum menjalankan aplikasi.
 - **Password** aplikasi di bawah panduan ini.
 - **Buka aplikasi** double klik atau klik kanan dan pilih install.
